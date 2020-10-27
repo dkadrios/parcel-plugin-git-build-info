@@ -1,0 +1,28 @@
+{
+  "name": "parcel-plugin-git-build-info",
+  "version": "0.0.1",
+  "description": "Parcel plugin that stores build information as environment variables",
+  "keywords": [
+    "build",
+    "git",
+    "parcel-bundler",
+    "parcel-plugin",
+    "parcel",
+    "version"
+  ],
+  "main": "src/index.js",
+  "repository": "https://github.com/dkadrios/parcel-plugin-git-build-info",
+  "author": "Darin Kadrioski <dkadrios@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "jest": "^26.6.1",
+    "parcel-bundler": "^1.12.4",
+    "prettier": "^2.1.2"
+  }
+}

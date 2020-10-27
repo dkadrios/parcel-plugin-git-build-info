@@ -1,0 +1,17 @@
+.DS_Store
+node_modules/
+/npm-debug.log
+*-debug.log
+/db
+/documentation/site
+/.storybook/site
+
+yarn-error.log
+
+dist
+coverage
+.cache
+.module-graph.svg
+get-pip.py
+
+report.*.json
